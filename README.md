@@ -12,11 +12,11 @@
 * [An Introvert's Guide to Public Speaking](http://www.sitepoint.com/an-introverts-guide-to-public-speaking)
 
 ## Management
-*[Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.tnmbbn6mu)
+* [Unintuitive Things I’ve Learned about Management](https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.tnmbbn6mu)
 * [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
 * [The Dreaded Weekly Status Email](http://eleganthack.com/the-dreaded-weekly-status-email/?utm_content=buffer0ba92&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 * [Workboard - Good tool for tracking goal achievement](http://www.workboard.com)
 
 
 ## Other
-*[Peetch - The last PowerPoint pitchdeck you'll ever need to raise money](http://peetch.slidor.fr)
+* [Peetch - The last PowerPoint pitchdeck you'll ever need to raise money](http://peetch.slidor.fr)
